@@ -4,8 +4,8 @@ I think I'm overthinking this.  I think I'll follow the instructions for Secure 
 [Linux Surface](https://github.com/linux-surface/linux-surface/wiki/Secure-Boot) project and see
 how that goes.<!--more-->
 
-The GH project's wiki references the following the
-[ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface/Secure_Boot#shim)
+The GH project's wiki references following steps outlined in the
+[ArchWiki](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface/Secure_Boot#shim).
 
 Additionally, I came across the following sources:
 
@@ -14,5 +14,5 @@ Additionally, I came across the following sources:
 * A blog [post](https://blog.clarence-mesina.com/2022/01/06/secure-boot-pop-os) from January 2022
 
 I haven't been able to sit down and try this -- but expect that this worked if I don't come back to
-edit this.
+follow up.
 
