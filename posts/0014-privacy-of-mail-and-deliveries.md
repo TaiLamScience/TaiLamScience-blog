@@ -10,7 +10,7 @@ did.  However, this is not due to a reason you probably expect.
 I started to receive significantly more junk mail from charitable nonprofits and groups, more so
 than usual (at least since the 2020 COVID-19 pandemic).  I won't name specific names, but this was a
 local nonprofit which has a total annual budget size between the order of $1 million and $10
-million.
+million.<!--more-->
 
 (To the reader: if we know each other IRL, then I'll tell you who the offending org is; and if your
 savvy with implementing an actionable fix with the issue below, then maybe we can work out a way for
