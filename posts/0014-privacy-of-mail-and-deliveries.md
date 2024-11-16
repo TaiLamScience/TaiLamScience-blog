@@ -28,7 +28,7 @@ never sold out to physical mail lists: the [ACLU](https://www.aclu.org/), includ
 the [EFF](https://www.eff.org/); and the [Freedom of the Press Foundation](https://freedom.press/).
 I am purposefully excluding comparatively technical groups that would respect the privacy and
 security of others in general, such as the [Signal Foundation](https://en.wikipedia.org/wiki/Signal_Foundation)
-and the [TorProject](https://en.wikipedia.org/wiki/The_Tor_Project).
+and [The Tor Project](https://en.wikipedia.org/wiki/The_Tor_Project).
 
 On the other hand, the only other way to avoid excessive physical mail list tracking is to donate to
 small local nonprofits.  (Any method is fine -- if you're super concerned about protecting your
